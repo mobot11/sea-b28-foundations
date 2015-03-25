@@ -4,6 +4,6 @@
 
 follow me on twitter! [@mobot11](https://twitter.com/mobot11)
 
- add me on linkedin at https://www.linkedin.com/profile/view?id=347688569&trk=hp-identity-name
+ heck, even add add me on [linkedin](https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile)
 
-![a picture of me]()
+![a picture of me](/downloads/Grad_picture.jpg)
